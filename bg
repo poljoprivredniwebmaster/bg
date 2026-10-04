@@ -1,0 +1,102 @@
+Friday,02,October,2026,16:29:57:00009
+VCDS -- Windows Based VAG/VAS Emulator Running on Windows 11 x64
+VCDS Version: 25.3.0.3
+Data version: 20250301 DS365.0
+www.Ross-Tech.com
+
+
+VIN: TMBAF63T3B9006675   License Plate: BG
+
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+
+                Address 09: Cent. Elect.       Labels: 1K0-937-08x-09.clb
+Control Module Part Number: 1K0 937 087 P    HW: 1K0 937 087 P
+  Component and/or Version: BCM PQ35  H+  104 0615
+           Software Coding: 40990AB8E00508C040080084110089A4427000AE732081605C4440000040
+            Work Shop Code: WSC 28401 457 94487
+                      VCID: 3E738BFFA977BC6BF2-806A
+Fault Codes have been Erased
+
+2 Faults Found:
+01332 - Door Control Module; Passenger Side (J387) 
+            004 - No Signal/Communication
+             Freeze Frame:
+                    Fault Status: 01100100
+                    Fault Priority: 6
+                    Fault Frequency: 1
+                    Reset counter: 248
+                    Mileage: 472464 km
+                    Time Indication: 0
+                    Date: 2063.14.31
+                    Time: 16:29:09
+
+             Freeze Frame:
+                        Term 15 On
+                    Voltage: 14.05 V
+                        ON
+                        ON
+                        Term 50 Off
+                        OFF
+                        OFF
+
+01334 - Door Control Module; Rear Right (J389) 
+            004 - No Signal/Communication
+             Freeze Frame:
+                    Fault Status: 01100100
+                    Fault Priority: 6
+                    Fault Frequency: 1
+                    Reset counter: 248
+                    Mileage: 472464 km
+                    Time Indication: 0
+                    Date: 2063.14.31
+                    Time: 16:29:09
+
+             Freeze Frame:
+                        Term 15 On
+                    Voltage: 14.05 V
+                        ON
+                        ON
+                        Term 50 Off
+                        OFF
+                        OFF
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+
+                Address 15: Airbags       Labels: 5N0-959-655.lbl
+Control Module Part Number: 3T0 959 655 B    HW: 3T0 959 655 B
+  Component and/or Version: J234__LCJ VW10 HI   1916
+           Software Coding: 0017226
+            Work Shop Code: WSC 33361 790 00082
+                      VCID: 408FF5071383CA9B80-8014
+1 Fault Found:
+
+01222 - Crash Sensor Side Airbag; Passenger Side (G180) 
+            010 - Open or Short to Plus - Intermittent - MIL ON
+             Freeze Frame:
+                    Fault Status: 10101010
+                    Fault Priority: 2
+                    Fault Frequency: 1
+                    Reset counter: 255
+                    Mileage: 447665 km
+                    Time Indication: 0
+                    Date: 2063.14.31
+                    Time: 23:46:39
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+
+Address 15: DTCs cleared
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+
+Address 42: DTCs cleared
